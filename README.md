@@ -56,3 +56,7 @@
 <a href="mailto:matheus.ferrazzi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=matheus-ferrazzi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+### 🐍 My Contributions
+![Snake animation](https://github.com/matheus-ferrazzi/matheus-ferrazzi/blob/output/github-contribution-grid-snake.svg)
