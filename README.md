@@ -1,7 +1,12 @@
 ### Hi there, I'm Matheus! 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=matheus-ferrazzi&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferrazzi&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=matheus-ferrazzi&theme=gitdimmed&no-frame=true&margin-w=4" alt="Trophies" />
+  </a>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-ferrazzi&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
 
 ---
 
