@@ -1,8 +1,8 @@
 ### Hi there, I'm Matheus! 👋
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-ferrazzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferrazzi&layout=compact&theme=dark" alt="Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-ferrazzi&show_icons=true&theme=dark&hide_border=true" alt="Matheus Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferrazzi&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="180" />
 </p>
 
 ---
@@ -45,6 +45,6 @@
 ---
 📫 **Connect with me:**
 <br>
-<a href="https://www.linkedin.com/in/matheus-jacob-ferrazzi-6604801a5/">
+<a href="https://www.linkedin.com/in/matheus-ferrazzi">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
