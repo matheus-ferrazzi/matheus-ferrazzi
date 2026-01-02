@@ -1,11 +1,13 @@
 ### Hi there, I'm Matheus! 👋
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=false&vCenter=false&width=435&lines=Infrastructure+Analyst;Automation+Enthusiast+%F0%9F%9A%80;Zabbix+%26+n8n+Expert;PowerShell+%2F+Bash+Scripting" alt="Typing SVG" />
+</a>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=matheus-ferrazzi&theme=gitdimmed&no-frame=true&margin-w=4" alt="Trophies" />
   </a>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-ferrazzi&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -48,4 +50,4 @@
 ---
 📫 **Connect with me:**
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferrazzi)
+[![LinkedIn](
