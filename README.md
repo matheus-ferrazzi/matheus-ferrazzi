@@ -15,7 +15,6 @@
 ### 🛠️ Tech Stack & Tools
 
 **Network & Security:**
-
 <br>
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/fortinet-%23CC2229?style=for-the-badge&logo=fortinet&logoColor=white)
@@ -23,7 +22,6 @@
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 **Infra & Cloud:**
-
 <br>
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -33,7 +31,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **Automation & Scripting:**
-
 <br>
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -43,7 +40,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Databases & Management:**
-
 <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
