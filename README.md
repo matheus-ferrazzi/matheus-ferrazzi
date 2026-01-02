@@ -59,5 +59,6 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=matheus-ferrazzi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 ### 🐍 My Contributions
-![Snake animation](https://raw.githubusercontent.com/matheus-ferrazzi/matheus-ferrazzi/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/matheus-ferrazzi/matheus-ferrazzi/output/github-contribution-grid-snake.gif)
+
 
