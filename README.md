@@ -9,11 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=matheus-ferrazzi&theme=gitdimmed&no-frame=true&margin-w=4" alt="Trophies" />
   </a>
 </p>
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
