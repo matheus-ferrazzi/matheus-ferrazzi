@@ -1,11 +1,13 @@
-<div align="center">
-  <a href="https://github.com/matheus-ferrazzi">
-    <img src="https://github-readme-stats.vercel.app/api?username=matheus-ferrazzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferrazzi&layout=compact&theme=dracula" height="180" alt="languages graph" />
-  </a>
-</div>
+### Hi there, I'm Matheus! 👋
 
-### 💻 Tech Stack & Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-ferrazzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferrazzi&layout=compact&theme=dracula" alt="Languages" />
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 **Infra & Cloud**
 <div style="display: inline_block">
@@ -33,3 +35,7 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 </div>
+
+---
+📫 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferrazzi)
